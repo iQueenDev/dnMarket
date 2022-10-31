@@ -7,21 +7,9 @@ Try running some of the following tasks:
 ```shell
 
 npx hardhat node
-npx hardhat run scripts/deploy.js --network localhost
-npx hardhat run scripts/deploy.js --network polygon_mumbai
-
+npx hardhat run scripts/deploy.js 
 npm run dev
-
-npx hardhat run scripts/deploy.js --network mumbai
-npx hardhat run scripts/deploy.js --network polygon_mainnet
-
 npx hardhat help
 npx hardhat test
 REPORT_GAS=true npx hardhat test
 ```
-# nftMarket
-# market
-# market
-# nftmarket
-# nartmarket
-# dnMarket
